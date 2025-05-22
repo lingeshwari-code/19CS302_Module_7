@@ -34,11 +34,7 @@ fprintf(p,"%d %s %f",id,text,m);
 fclose(p);
 printf("Data added Successfully");
 ```
-
 ## Output:
-
 ![image](https://github.com/user-attachments/assets/217e4d4e-373e-4ef8-962b-3af24de0e7e9)
-
-
 ## Result:
 Thus the program was executed and the output was verified successfully.
